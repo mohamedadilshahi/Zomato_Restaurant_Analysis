@@ -19,6 +19,7 @@ select * from Restaurant_Data
 --Country Data
 select * from Country_Data
 
+-- Data Analysis & Business Key Problems & Answers
 
 -- 1. Get overall statastics for the Indian restaurant market. 
 -- 2. Top 10 Indian cities with number of restaurant, average rating, average cost 
@@ -292,14 +293,4 @@ group by
         else 'Other Countries'
     end ;
 
-
-/* HOMEWORK
-
-1. Market Penetration Analysis - India vs International 
-    - Compare Zomato's market presence and performance across key countries.
-    - 'India', 'United States', 'UAE', 'Singapore', 'Australia'
-2. Cuisine Diversity Analysis by Indian Cities
-    - Measure culinary diversity across Indian cities. 
-    
-*/
 
