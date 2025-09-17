@@ -20,6 +20,21 @@ select * from Restaurant_Data
 select * from Country_Data
 
 
+-- 1. Get overall statastics for the Indian restaurant market. 
+-- 2. Top 10 Indian cities with number of restaurant, average rating, average cost 
+-- 3. Understand pricing segments and their relationship with ratings in India. 
+-- 4. Compare restaurants types based on service offerings in India. Online delivery vs dine-in analysis.
+-- 5. Identify top 15 most popular cuisine types and their performance metrics in India. 
+-- 6. Compare budget vs premium restaurant segment in India. 
+-- 7. City-wise rating distribution in top 5 Indian cities. 
+-- 8. Compare average dining costs across different countries. 
+-- 9. Analyz the digital service adoption across India cities. 
+-- 10. Top rated restaurants in India with high vote count. 
+-- 11. India vs other countries - service features comparison.
+
+
+
+
 -- 1. Get overall statastics for the Indian restaurant market.
 
 select COUNT(*) as 'Total_Restaurants', 
@@ -287,3 +302,4 @@ group by
     - Measure culinary diversity across Indian cities. 
     
 */
+
