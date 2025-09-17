@@ -8,10 +8,10 @@ This project is designed to demonstrate SQL skills and data analysis techniques 
 
 ## Objectives
 
-1. **Analyze the Indian restaurant market and uncover overall industry statistics.
-2. **Identify top-performing cities based on restaurant count, customer ratings, and dining costs.
-3. **Explore the relationship between pricing segments, service offerings (online vs dine-in), and customer satisfaction.
-4. **Determine the most popular cuisines and compare performance across budget vs premium restaurant segments.
+1. Analyze the Indian restaurant market and uncover overall industry statistics.
+2. Identify top-performing cities based on restaurant count, customer ratings, and dining costs.
+3. Explore the relationship between pricing segments, service offerings (online vs dine-in), and customer satisfaction.
+4. Determine the most popular cuisines and compare performance across budget vs premium restaurant segments.
 
 ```
 
